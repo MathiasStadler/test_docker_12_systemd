@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
+        "BASEOS",
+        "procps",
+        "SIGRTMIN",
+        "STOPSIGNAL",
         "trfore"
     ]
 }
